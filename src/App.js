@@ -1,12 +1,15 @@
-import ContactForm from './Component/ContactForm.js/ContactForm';
-import Header from './Component/Header/Header';
-import Projects from './Component/Projects/Projects';
+import { Routes, Route } from 'react-router-dom';
+import ProjectDetails from './Component/ProjectDetails/ProjectDetails';
+import Home from './Component/Home/Home.js';
+
 function App() {
   return (
     <div className="App">
-      <Header />
-      <Projects />
-      <ContactForm />
+      <Routes>
+        <Route path='/' element={<Home />} />
+        <Route path='/home' element={<Home />} />
+        <Route path='/projects:id' element={<ProjectDetails />} />
+      </Routes>
     </div>
   );
 }

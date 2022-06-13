@@ -1,0 +1,89 @@
+[
+    {
+        "webSiteCategory": "Independent Service Provider Website",
+        "webSiteName": "JN's Photography",
+        "img1": "images/independent1.JPG",
+        "img2": "images/independent2.JPG",
+        "img3": "images/independent3.JPG",
+        "liveSiteLink": "https://photography-73c2f.firebaseapp.com/",
+        "clientGithubLink": "https://github.com/Jahid-Hasan-Jony/Independent-service-provider",
+        "serverGithubLink": "",
+        "technologies": [
+            "bootstrap",
+            "react",
+            "Rest Api",
+            "Firebase",
+            "React Router",
+            "React Form Hook",
+            "Firebase Hook",
+            "Form Validation"
+        ],
+        "shortDescription": "This website is about independent service provider...",
+        "shortDetails": [
+            "This project has nice Login, LogOut, Register, Verify Email, Reset Password Email system that has been done with the firebase",
+            "Just a simple Project for an independent  service Provider to highlight her/his nice work.",
+            "You can Booked any service from theme"
+        ]
+    },
+    {
+        "webSiteCategory": "MANUFACTURER WEBSITE",
+        "webSiteName": "JN INDUSTRIES LTD",
+        "img1": "images/MANUFACTURER1.JPG",
+        "img2": "images/MANUFACTURER2.JPG",
+        "img3": "images/MANUFACTURER3.JPG",
+        "liveSiteLink": "https://assignment-12-ba222.web.app/",
+        "clientGithubLink": "https://github.com/Jahid-Hasan-Jony/manufacturer-website-client",
+        "serverGithubLink": "https://github.com/Jahid-Hasan-Jony/-manufacturer-website-server",
+        "technologies": [
+            "Tailwind CSS",
+            "Daisy UI",
+            "Rest Api",
+            "React",
+            "JWT",
+            "Axios",
+            "React Form Hook",
+            "Firebase Hook",
+            "Form Validation",
+            "UseQuery",
+            "Mongobd",
+            "Express JS",
+            "React Stripe"
+        ],
+        "shortDescription": "This website is about independent service provider...",
+        "shortDetails": [
+            "This project has nice Login, LogOut, Register, Verify Email, Reset Password Email system that has been done with the firebase",
+            "It has a Dashboard , Admin can manage all products, all order and add Product , admin can delete any user and give admin power to any user.",
+            "And also users can order  products, If the user wants to cancel  her/his order, and a simple way to pay."
+        ]
+    },
+    {
+        "webSiteCategory": "WARE HOUSE WEBSITE",
+        "webSiteName": "GLAXY GLOCERY STORE",
+        "img1": "images/glocery1.JPG",
+        "img2": "images/glocery2.JPG",
+        "img3": "images/glocery3.JPG",
+        "liveSiteLink": "https://warehouse-97cd9.web.app/",
+        "clientGithubLink": "https://github.com/Jahid-Hasan-Jony/Ware-House-client",
+        "serverGithubLink": "https://github.com/Jahid-Hasan-Jony/Ware-House-Server",
+        "technologies": [
+            "Bootstrap",
+            "Routing",
+            "Rest Api",
+            "React",
+            "JWT",
+            "Axios",
+            "React Form Hook",
+            "Firebase Hook",
+            "Form Validation",
+            "UseQuery",
+            "Mongobd",
+            "Express JS"
+        ],
+        "shortDescription": "This website is about independent service provider...",
+        "shortDetails": [
+            "This project has nice Login, LogOut, Register, Verify Email, Reset Password Email system that has been done with the firebase",
+            "You can update product with increment or decrement product Quantity, You can add product with image and  also delete.",
+            "You can see your added items in MyItem Page."
+        ]
+    }
+]

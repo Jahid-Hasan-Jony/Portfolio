@@ -1,0 +1,21 @@
+.wordAnimation {
+    background-size: 100%;
+    font-size: 45px;
+    font-family: sans-serif;
+    background: linear-gradient(90deg, #ff0000, #ff0099, #ff00f3, #0033ff, #ff00c4, #ff0000);
+    font-weight: 600;
+    word-spacing: 5px;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    animation: animate 0.5s linear infinite;
+}
+
+@keyframes animate {
+    0% {
+        background-position: 0%;
+    }
+
+    100% {
+        background-position: 0%;
+    }
+}
